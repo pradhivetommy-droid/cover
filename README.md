@@ -54,7 +54,7 @@ ragul.html
                       <h1>HACKER ETHOS</h1></div>
 
                  <div class="subtitle">
-                         <h3>A Hacker’s Journey</h3>
+                         <h3>A Hackers Journey</h3>
                  </div>
                  <div class="mypic">
                       <img src="mypic.jpeg" width="125" height="140" alt="">
@@ -155,7 +155,7 @@ style.css
 ```             
 
 ## OUTPUT:
-![alt text](image-1.png)
+![alt text](image.png)
 
 ## RESULT:
 The program for designing book front cover page using HTML and CSS is completed successfully.
